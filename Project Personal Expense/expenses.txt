@@ -1,0 +1,4 @@
+100.0,food,Burger
+100.0,Food,Pizza
+200.0,Pencil,Doms
+100.0,Food,Dosa
